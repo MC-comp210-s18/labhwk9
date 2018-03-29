@@ -11,5 +11,6 @@ public interface IConverterModel {
 	void addObserver(Observer o);
 	
 	//...update the observers
+	void updateObservers();
 	
 }
